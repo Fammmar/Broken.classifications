@@ -60,7 +60,7 @@ public class Main {
         // 1.4
         String filePath = "input.txt";
         // 3.1 инициализация пустой строкой
-        String content = "";
+        String content = " ";
 
         try {
             // 1.1, 1.2, 4.2
